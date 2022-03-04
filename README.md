@@ -1,2 +1,2 @@
-# NSH
-A simple shell program
+# NASH
+A simple command interpreter for the linux os.
